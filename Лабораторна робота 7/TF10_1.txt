@@ -1,0 +1,2 @@
+2 Character strings for test 7 of laboratory work October 29
+Another line 678 for code testing
